@@ -208,7 +208,7 @@ ExpansiveEnvPlanetaryDamage
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add merge script for single mod publishing
+- [X] Add merge script for single mod publishing
 - [ ] Publish initial version to Steam Workshop
 - [ ] Add themed ship blueprints
 - [ ] Add mod for better hostile ship takeover vs. base game
