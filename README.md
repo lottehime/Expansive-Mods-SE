@@ -236,7 +236,7 @@ _This will allow you to enable and disable each mod component to your liking._
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/lottehime/Expansive-Mods-SE.git
    ```
 3. Copy the folders from with the 'Mods' folder from the repo into your Space Engineers Mods folder location:
    ```
