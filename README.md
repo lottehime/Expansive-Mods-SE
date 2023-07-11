@@ -208,6 +208,7 @@ ExpansiveEnvPlanetaryDamage
 <!-- ROADMAP -->
 ## Roadmap
 
+- [ ] Add merge script for single mod publishing
 - [ ] Publish initial version to Steam Workshop
 - [ ] Add themed ship blueprints
 - [ ] Add mod for better hostile ship takeover vs. base game
@@ -221,7 +222,7 @@ ExpansiveEnvPlanetaryDamage
     - [ ] Faction comms dialogue (audio)
 
 
-See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for additional community proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
