@@ -230,6 +230,8 @@ See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for
 ## Installation
 
 _For now, the mod must be installed locally to the mods directory of Space Engineers, until it is published to the Steam Workshop._
+<br>
+_This will allow you to enable and disable each mod component to your liking._
 
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
@@ -241,6 +243,9 @@ _For now, the mod must be installed locally to the mods directory of Space Engin
    %AppData%\SpaceEngineers\Mods
    ```
 4. Launch the game and create your save, selecting the individual mods from the pack that you want to use.
+
+#### Alternative install:
+_Copy the 'ExpansiveMods' folder from within the 'Combined' folder into your Space Engineers Mods folder per above._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
