@@ -209,7 +209,7 @@ ExpansiveEnvPlanetaryDamage
 ## Roadmap
 
 - [X] Add merge script for single mod publishing
-- [ ] Publish initial version to Steam Workshop
+- [X] Publish initial version to Steam Workshop
 - [ ] Add themed ship blueprints
 - [ ] Add mod for better hostile ship takeover vs. base game
 - [ ] Add Sol system planets 
@@ -229,23 +229,26 @@ See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for
 
 ## Installation
 
-_For now, the mod must be installed locally to the mods directory of Space Engineers, until it is published to the Steam Workshop._
-<br>
-_This will allow you to enable and disable each mod component to your liking._
+_For local play, subscribe to the mod on the [Steam Workshop page.](https://steamcommunity.com/sharedfiles/filedetails/?id=3002953565)._
+
+_For server play, add the ID (3002953565) to your server config._
+
+_To install manually instead of from the Steam Workshop:_
 
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
    ```sh
    git clone https://github.com/lottehime/Expansive-Mods-SE.git
    ```
-3. Copy the folders from with the 'Mods' folder from the repo into your Space Engineers Mods folder location:
+3. Copy the 'ExpansiveMods' folder from within the 'Combined' folder from the repo into your Space Engineers Mods folder location:
    ```
    %AppData%\SpaceEngineers\Mods
    ```
 4. Launch the game and create your save, selecting the individual mods from the pack that you want to use.
 
 #### Alternative install:
-_Copy the 'ExpansiveMods' folder from within the 'Combined' folder into your Space Engineers Mods folder per above._
+_To install individual components only, locally:_
+_Copy the individual mod parts from the 'Mods' folder from the repo into your Space Engineers Mods folder per above._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
