@@ -30,7 +30,8 @@ namespace Expansive.PlanetDamage
     public class PlanetComponent : MyGameLogicComponent
     {
         readonly List<MyEntity> QueryResult = new List<MyEntity>();
-        readonly List<string> subtypes = new List<string> { "Jupiter", "Saturn", "Uranus", "Planet-26", "Mars_E" };
+        //readonly List<string> subtypes = new List<string> { "Jupiter", "Saturn", "Uranus", "Planet-26", "Mars_E" };
+        readonly List<string> subtypes = new List<string> { "ExpansiveMods_Test1", "ExpansiveMods_Test1" };
         readonly MyStringHash DamageSource = MyStringHash.GetOrCompute("Harmful atmosphere.");
 
         private MyPlanet Planet;

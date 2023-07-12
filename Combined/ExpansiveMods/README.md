@@ -208,7 +208,7 @@ ExpansiveEnvPlanetaryDamage
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add merge script for single mod publishing
+- [X] Add merge script for single mod publishing
 - [ ] Publish initial version to Steam Workshop
 - [ ] Add themed ship blueprints
 - [ ] Add mod for better hostile ship takeover vs. base game
@@ -230,17 +230,22 @@ See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for
 ## Installation
 
 _For now, the mod must be installed locally to the mods directory of Space Engineers, until it is published to the Steam Workshop._
+<br>
+_This will allow you to enable and disable each mod component to your liking._
 
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/lottehime/Expansive-Mods-SE.git
    ```
 3. Copy the folders from with the 'Mods' folder from the repo into your Space Engineers Mods folder location:
    ```
    %AppData%\SpaceEngineers\Mods
    ```
 4. Launch the game and create your save, selecting the individual mods from the pack that you want to use.
+
+#### Alternative install:
+_Copy the 'ExpansiveMods' folder from within the 'Combined' folder into your Space Engineers Mods folder per above._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,6 +267,13 @@ _For now, the mod must be installed locally to the mods directory of Space Engin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- BUY ME A COFFEE -->
+## Help Support More Like This
+
+<a href="https://www.buymeacoffee.com/lottehime" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing

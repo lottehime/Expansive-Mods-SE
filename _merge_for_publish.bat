@@ -34,7 +34,7 @@ for /f "delims=" %%f in ('dir /b /ad') do (
 )
 echo.
 
-xcopy ..\images\thumb_banner.png ..\Combined\ExpansiveMods\thumb.png /I /E /Y
+xcopy ..\images\thumb_small.png ..\Combined\ExpansiveMods\thumb.png /I /E /Y
 echo.
 
 xcopy ..\LICENSE.txt ..\Combined\ExpansiveMods
