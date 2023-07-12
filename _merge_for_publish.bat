@@ -43,6 +43,9 @@ echo.
 xcopy ..\README.MD ..\Combined\ExpansiveMods
 echo.
 
+xcopy ..\modinfo.sbmi ..\Combined\ExpansiveMods
+echo.
+
 echo Operation complete.
 echo.
 
