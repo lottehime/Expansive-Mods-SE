@@ -88,6 +88,22 @@ namespace Expansive.DriveSigs
                         else divisor = 6000;
                         rawThrustOutput += thruster.CurrentThrust / divisor;
 
+                        if (thruster.Enabled && thruster.GridThrustDirection != Vector3I.Zero && thruster.GridThrustDirection != Vector3I.Backward)
+                        {
+                            if (thrusterName == "LargeBlockLargeHydrogenThrust" || thrusterName == "LargeBlockLargeHydrogenThrustIndustrial")
+                                thruster.Enabled = false;
+
+                            else if (thrusterName == "LargeBlockLargeThrust" || thrusterName == "LargeBlockLargeThrustSciFi" || thrusterName == "LargeBlockLargeModularThruster")
+                                thruster.Enabled = false;
+
+                            else if (thrusterName == "SmallBlockLargeHydrogenThrust" || thrusterName == "SmallBlockLargeHydrogenThrustIndustrial")
+                                thruster.Enabled = false;
+
+                            else if (thrusterName == "SmallBlockLargeThrust" || thrusterName == "SmallBlockLargeThrustSciFi" || thrusterName == "SmallBlockLargeModularThruster")
+                                thruster.Enabled = false;  
+                            else;
+                        }
+
                         //if(rawThrustOutput!=0)
                         //{
                         //  //PostDebugNotif(rawThrustOutput.ToString());

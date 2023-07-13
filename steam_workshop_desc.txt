@@ -28,12 +28,6 @@ There are lots of THE EXPANSE style mods, why another?
 [*] Transparent white for small thrusters for both grid sizes (to represent RCS thrusters).
 [/list]
 
-[*] [b]Large Thruster - Forward Thrust Only:[/b]
-[list]
-[*] Large thrusters placed / built in a direction other than forward are disabled.
-[*] Large thrusters (main drives) are turned off at init for safety.
-[/list]
-
 [*] [b]Higher Top Speed:[/b]
 [list]
 [*] Small grid max speed changed to 350m/s for more reasonable travel speeds without breaking game physics.
@@ -49,6 +43,8 @@ There are lots of THE EXPANSE style mods, why another?
 [*] Beacons have an anti-tamper feature to stop players from tampering with signatures.
 [*] Antennae can be used as transponders to broadcast a ship name with the signature, or run without an ID.
 [*] Antennae are free to be used to display comms text as ship name broadcast can be done via the beacon per above.
+[*] Large thrusters placed / built in a direction other than forward are disabled.
+[*] Large thrusters (main drives) are turned off at init for safety.
 [/list]
 
 [/olist]
