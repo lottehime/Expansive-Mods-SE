@@ -113,7 +113,7 @@ namespace Expansive.VanillaGuidedMissiles
             private float time = 0;
             private float seekAngleModMin = 0.075f;
             private float seekAngleModMax = -0.075f;
-            private float missileSpeedPercent = 0.5f;
+            private float missileSpeedPercent = 1f; //0.5f
             private Vector3 missilePos = Vector3.Zero;
             private Vector3 missileDir = Vector3.Zero;
             private Vector3 missileVel = Vector3.Zero;

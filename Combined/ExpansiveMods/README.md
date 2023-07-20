@@ -114,9 +114,9 @@ ExpansiveThrustDriveSigs
 ```
 ExpansiveWeaponsPDC
 ```
-* The fire rate of gatling turrets, gatling guns, autocannon turrets and autocannons has been increased to enable them to more reliably strike incoming missiles, allowing them to function as PDCs.
+* The fire rate of gatling turrets, gatling guns and interior turrets has been increased to enable them to more reliably strike incoming missiles, allowing them to function as PDCs.
 * The damage has been reduced on them, so that the same DPS is achieved, keeping the balance more or less the same for backwards compatibility.
-* Tracers have been added to most bullet/sabot based guns for a better gameplay experience, and for visuals.
+* Tracers have been added to Small Cal, Pistol Cal, Large Cal and Autocannon Shell ammo based guns for a better gameplay experience, and for visuals.
 
 #### 6. Guided Missiles (Torpedos):
 ```
@@ -124,8 +124,10 @@ ExpansiveWeaponsGuidedMissiles
 ```
 * Vanilla missiles can act as aimed or guided missiles.
 * Locking a target will convert missiles to guided missiles so that they can act as guided torpedos.
-* The missiles when locked, will arc almost instantly from the launcher, towards their target. Consider this when building! You don't want to not have enough clearance and take off parts of your ship.
+* The missiles when locked, will arc almost instantly from the launcher, towards their target. Consider this when building! You don't want to not have enough clearance, or fire from a wrong facing launcher and torpedo yourself!
 * When a target is not locked, they will return to the default aimed missile system.
+* Missile max speed is increased to 340m/s to avoid collision when launching at full speed. Also means small grids at max speed can outrun them, but large grid cannot and must mitigate them.
+* Missile max distance before explosion increased to 2.5km.
 
 </details>
 
