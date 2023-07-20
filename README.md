@@ -53,7 +53,7 @@
 <!-- ABOUT -->
 ## About Expansive Mods
 
-WIP!
+⚠️WIP!⚠️
 
 Expansive Mods aims to add gameplay elements to Space Engineers in the style of THE EXPANSE, while allowing ship blueprints and saves to be backwards compatible if you decide to revert to base gameplay.
 
