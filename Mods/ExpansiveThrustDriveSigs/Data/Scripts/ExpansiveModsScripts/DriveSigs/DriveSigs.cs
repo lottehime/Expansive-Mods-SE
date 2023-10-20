@@ -18,7 +18,7 @@ using VRageMath;
 
 namespace Expansive.DriveSigs
 {
-    [MyEntityComponentDescriptor(typeof(MyObjectBuilder_Beacon), false, "LargeBlockBeacon", "SmallBlockBeacon")]
+    [MyEntityComponentDescriptor(typeof(MyObjectBuilder_Beacon), false, "LargeBlockBeacon", "SmallBlockBeacon", "LargeBlockBeaconReskin", "SmallBlockBeaconReskin")]
     public class DriveSigs : MyGameLogicComponent
     {
         public static IMyTerminalBlock termBlock = null;
