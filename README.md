@@ -254,16 +254,13 @@ _Copy the individual mod parts from the 'Mods' folder from the repo into your Sp
 ## Built With
 
 <a href="#">
-<img src="https://img.shields.io/static/v1?message=C Sharp&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=C Sharp&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
 
 <a href="#">
-<img src="https://custom-icon-badges.demolab.com/badge/-space_engineers-grey?style=for-the-badge&logo=rocket&logoColor=white" height="35"/>
-</a>
+<img src="https://custom-icon-badges.demolab.com/badge/-space_engineers-grey?style=for-the-badge&logo=rocket&logoColor=white" height="35"/></a>
 
 <a href="#">
-<img src="https://custom-icon-badges.demolab.com/badge/-coffee-tan?style=for-the-badge&logo=coffee&logoColor=white" height="35"/>
-</a>
+<img src="https://custom-icon-badges.demolab.com/badge/-coffee-tan?style=for-the-badge&logo=coffee&logoColor=white" height="35"/></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
