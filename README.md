@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] 
 
 [contributors-shield]: https://img.shields.io/github/contributors/lottehime/Expansive-Mods-SE.svg?style=for-the-badge
 [contributors-url]: https://github.com/lottehime/Expansive-Mods-SE/graphs/contributors
@@ -28,8 +28,10 @@
 [stars-url]: https://github.com/lottehime/Expansive-Mods-SE/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lottehime/Expansive-Mods-SE.svg?style=for-the-badge
 [issues-url]: https://github.com/lottehime/Expansive-Mods-SE/issues
+<!--
 [license-shield]: https://img.shields.io/github/license/lottehime/Expansive-Mods-SE.svg?style=for-the-badge
 [license-url]: https://github.com/lottehime/Expansive-Mods-SE/blob/master/LICENSE.txt
+-->
 
 </div>
 
