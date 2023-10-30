@@ -219,6 +219,7 @@ ExpansiveEnvPlanetaryDamage
     - [ ] Faction ship blueprints
     - [ ] Faction comms dialogue (text)
     - [ ] Faction comms dialogue (audio)
+- [ ] Add ability to turn individual features on and off in a config file
 
 
 See the [open issues](https://github.com/lottehime/Expansive-Mods-SE/issues) for additional community proposed features (and known issues).
